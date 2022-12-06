@@ -1,0 +1,74 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "characters",
+      "rootUri": "file:///C:/Users/MetRiko/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/characters-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "circular_buffer",
+      "rootUri": "file:///C:/Users/MetRiko/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/circular_buffer-0.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///C:/Users/MetRiko/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/clock-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/MetRiko/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/collection-1.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///C:/Users/MetRiko/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/crypto-3.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "dartx",
+      "rootUri": "file:///C:/Users/MetRiko/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/dartx-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/MetRiko/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/meta-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/MetRiko/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path-1.8.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "time",
+      "rootUri": "file:///C:/Users/MetRiko/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/time-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///C:/Users/MetRiko/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/typed_data-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "aoc_2022",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    }
+  ],
+  "generated": "2022-12-01T20:15:59.987772Z",
+  "generator": "pub",
+  "generatorVersion": "2.18.2"
+}
