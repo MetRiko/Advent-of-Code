@@ -4,6 +4,11 @@ import 'package:dartx/dartx.dart';
 
 String readFile(String path) => io.File(path).readAsStringSync(encoding: utf8).replaceAll('\r', '');
 
+extension RegexString on RegExp {
+   List<String> regexGlobal(String str) => this.allMatches(str).map((e) => e.group(0)!).toList();
+   List<String> regexSingle(String str, List<int> groups) => this.firstMatch(str)!.groups(groups).cast<String>();
+}
+
 Iterable<int> range(int start, [int end = 0]) sync* {
    if (end <= 0) {
       for (int i = 0; i < start; ++i) yield i;
